@@ -1,1 +1,1 @@
-# My-Solvings-for-Python-Assignments-From-Elzero-Course
+# My-Solvings-of-Python-Assignments-From-Elzero-Course
